@@ -1,0 +1,3 @@
+array='abcdefghijklmnopqrstuvwxyz';
+
+print array
